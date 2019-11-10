@@ -18,6 +18,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
+    "mongodb": "^3.3.3",
+    "mongoose": "^5.7.9",
     "require": "^2.4.20"
   },
   "devDependencies": {
